@@ -1,0 +1,11 @@
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_SelfAssessment/Mod2_SelfAssessment/bin/Debug/netcoreapp2.1/Mod2_SelfAssessment.deps.json
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_SelfAssessment/Mod2_SelfAssessment/bin/Debug/netcoreapp2.1/Mod2_SelfAssessment.runtimeconfig.json
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_SelfAssessment/Mod2_SelfAssessment/bin/Debug/netcoreapp2.1/Mod2_SelfAssessment.runtimeconfig.dev.json
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_SelfAssessment/Mod2_SelfAssessment/bin/Debug/netcoreapp2.1/Mod2_SelfAssessment.dll
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_SelfAssessment/Mod2_SelfAssessment/bin/Debug/netcoreapp2.1/Mod2_SelfAssessment.pdb
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_SelfAssessment/Mod2_SelfAssessment/obj/Debug/netcoreapp2.1/Mod2_SelfAssessment.csprojAssemblyReference.cache
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_SelfAssessment/Mod2_SelfAssessment/obj/Debug/netcoreapp2.1/Mod2_SelfAssessment.csproj.CoreCompileInputs.cache
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_SelfAssessment/Mod2_SelfAssessment/obj/Debug/netcoreapp2.1/Mod2_SelfAssessment.AssemblyInfoInputs.cache
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_SelfAssessment/Mod2_SelfAssessment/obj/Debug/netcoreapp2.1/Mod2_SelfAssessment.AssemblyInfo.cs
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_SelfAssessment/Mod2_SelfAssessment/obj/Debug/netcoreapp2.1/Mod2_SelfAssessment.dll
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_SelfAssessment/Mod2_SelfAssessment/obj/Debug/netcoreapp2.1/Mod2_SelfAssessment.pdb

@@ -1,0 +1,11 @@
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab3_Take2/Mod2_Lab3_Take2/obj/Debug/netcoreapp2.1/Mod2_Lab3_Take2.csprojAssemblyReference.cache
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab3_Take2/Mod2_Lab3_Take2/obj/Debug/netcoreapp2.1/Mod2_Lab3_Take2.csproj.CoreCompileInputs.cache
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab3_Take2/Mod2_Lab3_Take2/obj/Debug/netcoreapp2.1/Mod2_Lab3_Take2.AssemblyInfoInputs.cache
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab3_Take2/Mod2_Lab3_Take2/obj/Debug/netcoreapp2.1/Mod2_Lab3_Take2.AssemblyInfo.cs
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab3_Take2/Mod2_Lab3_Take2/bin/Debug/netcoreapp2.1/Mod2_Lab3_Take2.deps.json
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab3_Take2/Mod2_Lab3_Take2/bin/Debug/netcoreapp2.1/Mod2_Lab3_Take2.runtimeconfig.json
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab3_Take2/Mod2_Lab3_Take2/bin/Debug/netcoreapp2.1/Mod2_Lab3_Take2.runtimeconfig.dev.json
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab3_Take2/Mod2_Lab3_Take2/bin/Debug/netcoreapp2.1/Mod2_Lab3_Take2.dll
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab3_Take2/Mod2_Lab3_Take2/bin/Debug/netcoreapp2.1/Mod2_Lab3_Take2.pdb
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab3_Take2/Mod2_Lab3_Take2/obj/Debug/netcoreapp2.1/Mod2_Lab3_Take2.dll
+/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab3_Take2/Mod2_Lab3_Take2/obj/Debug/netcoreapp2.1/Mod2_Lab3_Take2.pdb

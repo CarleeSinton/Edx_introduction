@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab2/Mod2_Lab2/Mod2_Lab2.csproj": {}
+  },
+  "projects": {
+    "/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab2/Mod2_Lab2/Mod2_Lab2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab2/Mod2_Lab2/Mod2_Lab2.csproj",
+        "projectName": "Mod2_Lab2",
+        "projectPath": "/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab2/Mod2_Lab2/Mod2_Lab2.csproj",
+        "packagesPath": "/Users/carleen/.nuget/packages/",
+        "outputPath": "/Users/carleen/Projects/EdX/Introduction to C#/Mod2_Lab2/Mod2_Lab2/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/carleen/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
