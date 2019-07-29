@@ -1,0 +1,11 @@
+/Users/carleen/Projects/EdX/Introduction to C#/Mod3_Lab1/Mod3_Lab1/obj/Debug/netcoreapp2.1/Mod3_Lab1.csprojAssemblyReference.cache
+/Users/carleen/Projects/EdX/Introduction to C#/Mod3_Lab1/Mod3_Lab1/obj/Debug/netcoreapp2.1/Mod3_Lab1.csproj.CoreCompileInputs.cache
+/Users/carleen/Projects/EdX/Introduction to C#/Mod3_Lab1/Mod3_Lab1/obj/Debug/netcoreapp2.1/Mod3_Lab1.AssemblyInfoInputs.cache
+/Users/carleen/Projects/EdX/Introduction to C#/Mod3_Lab1/Mod3_Lab1/obj/Debug/netcoreapp2.1/Mod3_Lab1.AssemblyInfo.cs
+/Users/carleen/Projects/EdX/Introduction to C#/Mod3_Lab1/Mod3_Lab1/bin/Debug/netcoreapp2.1/Mod3_Lab1.deps.json
+/Users/carleen/Projects/EdX/Introduction to C#/Mod3_Lab1/Mod3_Lab1/bin/Debug/netcoreapp2.1/Mod3_Lab1.runtimeconfig.json
+/Users/carleen/Projects/EdX/Introduction to C#/Mod3_Lab1/Mod3_Lab1/bin/Debug/netcoreapp2.1/Mod3_Lab1.runtimeconfig.dev.json
+/Users/carleen/Projects/EdX/Introduction to C#/Mod3_Lab1/Mod3_Lab1/bin/Debug/netcoreapp2.1/Mod3_Lab1.dll
+/Users/carleen/Projects/EdX/Introduction to C#/Mod3_Lab1/Mod3_Lab1/bin/Debug/netcoreapp2.1/Mod3_Lab1.pdb
+/Users/carleen/Projects/EdX/Introduction to C#/Mod3_Lab1/Mod3_Lab1/obj/Debug/netcoreapp2.1/Mod3_Lab1.dll
+/Users/carleen/Projects/EdX/Introduction to C#/Mod3_Lab1/Mod3_Lab1/obj/Debug/netcoreapp2.1/Mod3_Lab1.pdb

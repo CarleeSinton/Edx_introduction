@@ -1,0 +1,11 @@
+/Users/carleen/Projects/Mod3_SelfAssessment/Mod3_SelfAssessment/bin/Debug/netcoreapp2.1/Mod3_SelfAssessment.deps.json
+/Users/carleen/Projects/Mod3_SelfAssessment/Mod3_SelfAssessment/bin/Debug/netcoreapp2.1/Mod3_SelfAssessment.runtimeconfig.json
+/Users/carleen/Projects/Mod3_SelfAssessment/Mod3_SelfAssessment/bin/Debug/netcoreapp2.1/Mod3_SelfAssessment.runtimeconfig.dev.json
+/Users/carleen/Projects/Mod3_SelfAssessment/Mod3_SelfAssessment/bin/Debug/netcoreapp2.1/Mod3_SelfAssessment.dll
+/Users/carleen/Projects/Mod3_SelfAssessment/Mod3_SelfAssessment/bin/Debug/netcoreapp2.1/Mod3_SelfAssessment.pdb
+/Users/carleen/Projects/Mod3_SelfAssessment/Mod3_SelfAssessment/obj/Debug/netcoreapp2.1/Mod3_SelfAssessment.csprojAssemblyReference.cache
+/Users/carleen/Projects/Mod3_SelfAssessment/Mod3_SelfAssessment/obj/Debug/netcoreapp2.1/Mod3_SelfAssessment.csproj.CoreCompileInputs.cache
+/Users/carleen/Projects/Mod3_SelfAssessment/Mod3_SelfAssessment/obj/Debug/netcoreapp2.1/Mod3_SelfAssessment.AssemblyInfoInputs.cache
+/Users/carleen/Projects/Mod3_SelfAssessment/Mod3_SelfAssessment/obj/Debug/netcoreapp2.1/Mod3_SelfAssessment.AssemblyInfo.cs
+/Users/carleen/Projects/Mod3_SelfAssessment/Mod3_SelfAssessment/obj/Debug/netcoreapp2.1/Mod3_SelfAssessment.dll
+/Users/carleen/Projects/Mod3_SelfAssessment/Mod3_SelfAssessment/obj/Debug/netcoreapp2.1/Mod3_SelfAssessment.pdb
